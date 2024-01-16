@@ -1,0 +1,5 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(á æùÿÿÿÿ8õœûŸĞ1
+S
+java:S1172"6Remove this unused method parameter "parkingStrategy".(¦¯¯Ö8ûŸĞ1
+L	java:S106"+Replace this use of System.out by a logger.(‹Ãöšøÿÿÿÿ8ƒûŸĞ1
